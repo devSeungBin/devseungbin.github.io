@@ -3,9 +3,8 @@ title: 1-1-1. 소프트웨어 개발 방법론 [정보처리기사]
 date: 2025-12-08 06:54:44 +0900
 categories: [Certifications, Engineer-Information-Processing]
 tags: [소프트웨어공학, 소프트웨어개발수명주기, 소프트웨어개발방법론] # TAG names should always be lowercase
-img_path: /assets/img/posts/Certifications/Engineer-Information-Processing/2025-12-08-SoftwareDevelopmentMethodology/
 image:
-  path: preview.jpg
+  path: /assets/img/posts/Certifications/Engineer-Information-Processing/2025-12-08-SoftwareDevelopmentMethodology/preview.jpg
   alt: preview.jpg
 comments: false
 author: seungbin
@@ -237,7 +236,7 @@ mermaid: true
    - 단계별로 결과물이 명확해야 다음 단계로 넘어감
    - 제품의 기능 보완이 불가능하므로 **메뉴얼 작성이 필수**
 
-   ![waterfall.jpg](waterfall.jpg)
+   ![waterfall.jpg](/assets/img/posts/Certifications/Engineer-Information-Processing/2025-12-08-SoftwareDevelopmentMethodology/waterfall.jpg)
    _폭포수 모델_
 
 3. 프로토타입 모델
@@ -247,7 +246,7 @@ mermaid: true
    - 시제품은 사용자와 시스템 사이의 **인터페이스에 중점**을 두어 개발
    - 시제품은 추후 최종 구현 단계에서 **골격**으로 사용
 
-   ![prototype.jpg](prototype.jpg)
+   ![prototype.jpg](/assets/img/posts/Certifications/Engineer-Information-Processing/2025-12-08-SoftwareDevelopmentMethodology/prototype.jpg)
    _프로토타입 모델_
 
 4. 나선형 모델
@@ -257,7 +256,7 @@ mermaid: true
    - 개발 중 발생할 수 있는 **위험을 최소화하는 것**이 목적이며 **유지보수가 필요없음**
    - 누락 및 추가된 요구사항 반영이 가능
 
-   ![spiral.jpg](spiral.jpg)
+   ![spiral.jpg](/assets/img/posts/Certifications/Engineer-Information-Processing/2025-12-08-SoftwareDevelopmentMethodology/spiral.jpg)
    _나선형 모델_
 
 5. 애자일 모델
@@ -316,7 +315,7 @@ mermaid: true
    - 스프린트 검토 회의: 개발이 완료된 부분 또는 전체 제품을 사용자와 함께 테스트, 사용자 피드백을 제품 백로그에 반영
    - 스프린트 회고: 스프린트 진행 자체의 문제점, 개선점 도출
 
-   ![scrumProcess.jpg](scrumProcess.jpg)
+   ![scrumProcess.jpg](/assets/img/posts/Certifications/Engineer-Information-Processing/2025-12-08-SoftwareDevelopmentMethodology/scrumProcess.jpg)
    _스크럼 모델_
 
 <br>
@@ -345,7 +344,7 @@ mermaid: true
    - 이터레이션: 하나의 릴리즈를 1~3주의 개발 기간으로 세분화한 단위
    ```
 
-   ![xpProcess.jpg](xpProcess.jpg)
+   ![xpProcess.jpg](/assets/img/posts/Certifications/Engineer-Information-Processing/2025-12-08-SoftwareDevelopmentMethodology/xpProcess.jpg)
    _XP 모델_
 
 3. XP 기본 원리
@@ -418,7 +417,7 @@ mermaid: true
    - 자료 사전(DD): 자료 흐름도(DFD)에 표현된 자료 저장소를 구체화
    ```
 
-   ![structured.jpg](structured.jpg)
+   ![structured.jpg](/assets/img/posts/Certifications/Engineer-Information-Processing/2025-12-08-SoftwareDevelopmentMethodology/structured.jpg)
    _구조적 방법론_
 
 2. 정보공학 방법론
@@ -433,7 +432,7 @@ mermaid: true
    - 프로세스 모델링 도구: 자료 흐름도(DFD), 프로세스 의존도(PDD), 프로세스 계층도(PHD)
    ```
 
-   ![informationEngineer.jpg](informationEngineer.jpg)
+   ![informationEngineer.jpg](/assets/img/posts/Certifications/Engineer-Information-Processing/2025-12-08-SoftwareDevelopmentMethodology/informationEngineer.jpg)
    _정보공학 방법론_
 
 3. 객체지향 방법론
@@ -478,7 +477,7 @@ mermaid: true
    - 시험: ~결과서, ~지침서, 인수시험 시나리오
    ```
 
-   ![componentBased.jpg](componentBased.jpg)
+   ![componentBased.jpg](/assets/img/posts/Certifications/Engineer-Information-Processing/2025-12-08-SoftwareDevelopmentMethodology/componentBased.jpg)
    _컴포넌트 기반 방법론_
 
 5. 애자일 방법론
@@ -497,7 +496,7 @@ mermaid: true
    (두 공학을 연계하기 위한 제품 요구사항, 제품 아키텍처, 제품 조립 생산이 필요)
    ```
 
-   ![productLine.jpg](productLine.jpg)
+   ![productLine.jpg](/assets/img/posts/Certifications/Engineer-Information-Processing/2025-12-08-SoftwareDevelopmentMethodology/productLine.jpg)
    _제품 계열 방법론_
 
 <br>
