@@ -1,45 +1,36 @@
-# Blog Categories
+Projects
+├─ Personal (개인 프로젝트)
+├─ Team (팀 프로젝트)
+├─ Open-Source (오픈소스 참여)
+├─ Study (토이 프로젝트·학습용)
+└─ ...
 
-Projects <br>
- ├─ Personal (개인 프로젝트) <br>
- ├─ Team (팀 프로젝트) <br>
- ├─ Open-Source (오픈소스 참여) <br>
- ├─ Study (토이 프로젝트·학습용) <br>
- └─ ... <br>
+Languages
+├─ JavaScript
+├─ TypeScript
+├─ SQL
+└─ ...
 
-Languages <br>
- ├─ JavaScript <br> 
- ├─ TypeScript <br>
- ├─ SQL <br>
- └─ ... <br>
+CS
+├─ Algorithms
+├─ Data-Structures
+├─ Database
+├─ Network
+├─ Operating-System
+├─ Security
+└─ ...
 
-CS <br>
- ├─ Algorithms <br>
- ├─ Data-Structures <br>
- ├─ Database <br>
- ├─ Network <br>
- ├─ Operating-System <br>
- ├─ Security <br>
- └─ ... <br>
+Tools
+├─ IDE-VSCode
+├─ Git
+├─ Docker
+├─ Terminal
+├─ Build-Tools (Webpack, Vite, Babel 등)
+└─ ...
 
-Tools <br>
- ├─ IDE-VSCode <br>
- ├─ Git <br>
- ├─ Docker <br>
- ├─ Terminal <br> 
- ├─ Build-Tools (Webpack, Vite, Babel 등) <br>
- └─ ... <br>
+Frameworks
+├─ NodeJS
+├─ NestJS
+└─ ...
 
-Frameworks <br>
- ├─ NodeJS <br> 
- ├─ NestJS <br>
- └─ ... <br>
-
-Certifications<br>
- ├─ Engineer-Information-Processing <br>
- └─ ... <br>
-
-Life <br>
- ├─ Daily <br>
- ├─ Thoughts <br>
- └─ ... <br>
+나중에 쓸 때 참조하기...
