@@ -6,6 +6,8 @@ order: 4
 
 ## Profile
 
+---
+
 ### Name
 
 홍승빈
@@ -25,6 +27,8 @@ order: 4
 <br>
 
 ## Skill
+
+---
 
 ### Language
 
@@ -49,9 +53,13 @@ order: 4
 
 ## Work Experience
 
+---
+
 ### 1. Pagoth
 
 **테마를 통해 분류하는 공유 갤러리 웹 사이트**
+
+![Pagoth](/assets/img/aboutme/pagoth.jpg)
 
 * **Role**: Backend Developer
 * **Period**: 2024. 01 - 2024. 06
@@ -74,11 +82,13 @@ order: 4
 * Express
 * MySQL
 
----
+<br>
 
 ### 2. Timely Meet
 
 **스마트 약속 조율 서비스**
+
+![TimelyMeet](/assets/img/aboutme/timelymeet.jpg)
 
 * **Role**: Backend Developer
 * **Period**: 2024. 06 - 2024. 11
