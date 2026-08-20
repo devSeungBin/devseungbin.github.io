@@ -6,7 +6,7 @@ tags: [backend] # TAG names should always be lowercase
 image:
   path: /assets/img/posts/wip.jpg
   alt: preview.jpg
-comments: false
+comments: true
 author: seungbin
 math: true
 toc: true
