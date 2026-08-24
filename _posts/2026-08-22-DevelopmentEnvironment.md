@@ -3,9 +3,8 @@ title: Node.js로 웹 서버 구성하기
 date: 2026-08-22 18:47:48 +0900
 categories: [Projects, Study]
 tags: [nodejs] # TAG names should always be lowercase
-img_path: /devSeungBin/devseungbin.github.io/assets/img/posts/2026-08-22-DevelopmentEnvironment/
 image:
-  path: preview.jpg
+  path: /assets/img/posts/2026-08-22-DevelopmentEnvironment/preview.jpg
   alt: 이미지 미리보기
 comments: true
 author: seungbin
@@ -182,4 +181,5 @@ server.on('request', (request, response) => {
 server.listen(8080);
 ```
 
-![example.jpg](/example.jpg)  
+![example.jpg](/assets/img/posts/2026-08-22-DevelopmentEnvironment/example.jpg)
+_간단한 웹 서버 만들기_
